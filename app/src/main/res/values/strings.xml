@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sistema Salário</string>
+    <string name="digite_seu_sal_rio_r">Digite seu salário(R$)</string>
+    <string name="qual_sera_o_percentual">Qual sera o percentual?</string>
+    <string name="_40">40%</string>
+    <string name="_45">45%</string>
+    <string name="_50">50%</string>
+    <string name="mostrar_novo_sal_rio">Mostrar novo salário</string>
+    <string name="voltar">Voltar</string>
+    <string name="seu_novo_sal_rio">Seu novo salário é</string>
+</resources>
